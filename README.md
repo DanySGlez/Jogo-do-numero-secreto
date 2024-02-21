@@ -4,10 +4,11 @@
 
 > Formação Iniciante em Programação T6 ONE | ALURA - ORACLE
 
-### O jogo:
-- Projeto desenvolvidos nas aulas do curso Lógica de programação da Alura. [Clique aqui para acessar](https://jogo-blue-nine.vercel.app/)
+## 📝 Sobre
 
-### Tecnologias utilizadas:
+- Projeto desenvolvidos nas aulas do curso Lógica de programação da Alura. [Clique aqui para acessar o projeto](https://jogo-blue-nine.vercel.app/)
+
+### 🚀 Tecnologias utilizadas
 
 <div style="display: inline_block">
   <img align"center" alt="Logo HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> 
